@@ -1,0 +1,5 @@
+print("==============")
+print("Nama: Maulana Adiyanto")
+print("Kelas: 15.1A.27")
+print("jurusan:informatika")
+print("==============")
